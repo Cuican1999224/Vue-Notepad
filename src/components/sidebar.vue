@@ -84,7 +84,7 @@
         }
         pre{
             white-space: pre-wrap;
-            font:{
+            font{
                 size: 14px;
                 family:  arial,"microsoft yahei";
             }
