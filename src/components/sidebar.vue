@@ -86,7 +86,7 @@
             white-space: pre-wrap;
             font{
                 size: 14px;
-                family:  arial,"microsoft yahei";
+                // family:  arial,"microsoft yahei";
             }
             line-height: 20px;
         }
